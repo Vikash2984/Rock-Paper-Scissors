@@ -3,7 +3,7 @@
 <hr>
 <ul>
   <li>
-    https://vikash2984.github.io/Tic-Tac-Toe/
+    https://vikash2984.github.io/Rock-Paper-Scissors/
   </li>
 </ul>
 <hr>
