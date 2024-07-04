@@ -1,5 +1,4 @@
 # Rock-Paper-Scissors
-# Tic-Tac-Toe
 <b>Hosted Link</b>
 <hr>
 <ul>
